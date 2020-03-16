@@ -1,4 +1,4 @@
 c--learning
 ===========
 
-learning c++  exercises
+learning c++  
